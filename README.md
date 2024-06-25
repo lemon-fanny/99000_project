@@ -1,0 +1,4 @@
+**Project Title:** Capstone Projects Management Platform  
+**Project Clients:** Dr Basem Suleiman, School of Computer Science and Engineering
+#### Background:
+Capstone projects involve many stakeholders such as students, academics, industry partners and administrators. Supporting the management of capstone projects becomes crucial for large number of projects and stakeholders. This includes streamlining the capstone project process, from project creation and allocation to communication, analytics, and reporting. It aims to enhance the experience of both students and project owners, including academics and industry partners, involved in capstone projects.
